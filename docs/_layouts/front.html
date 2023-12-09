@@ -11,5 +11,45 @@
     <div class="title-area-frontpage title-area">
         {{ content }}
     </div>
+
+    <script>
+        const manipulatedTextElements = document.querySelectorAll('.manipulatedTextDisplay');
+
+        function getRandomIndex() {
+            return [2, 3, 4, 5, 7, 8, 9, 10][Math.floor(Math.random() * 8)];
+        }
+
+        function getRandomNumber(min, max) {
+            return Math.floor(Math.random() * (max - min + 1)) + min;
+        }
+
+        function performSingleCharacterRotation(currentElement, rotateIndex) {
+            currentElement.innerText = currentElement.innerText.substring(0, rotateIndex) + 
+                Math.floor(Math.random() * 16).toString(16) + 
+                currentElement.innerText.substring(rotateIndex + 1);
+        }
+
+        function performLiveTextRotation() {
+            const rotateIndex = getRandomIndex();
+            const currentElement = manipulatedTextElements[Math.floor(Math.random() * manipulatedTextElements.length)];
+            const originalText = currentElement.innerText.trim();
+            
+            let randomIterations = getRandomNumber(1, 4);
+            let rotationIntervalId = setInterval(() => {
+                performSingleCharacterRotation(currentElement, rotateIndex);
+                randomIterations--;
+
+                if (randomIterations <= 0) {
+                    clearInterval(rotationIntervalId);
+                    currentElement.innerText = originalText;
+                    // manipulatedText = originalText;
+
+                    setTimeout(performLiveTextRotation, getRandomNumber(100, 3000));
+                }
+            }, getRandomNumber(50, 100));
+        }
+
+        performLiveTextRotation();
+    </script>
 </body>
 </html>

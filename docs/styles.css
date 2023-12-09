@@ -1,17 +1,18 @@
+html {
+    background-color: #000000;
+    color: #ddd;
+}
+
 body {
     font-family: 'Menlo', monospace;
     margin: 0;
     padding: 5px;
-    max-width: 800px; /* Set your desired maximum width */
-    margin: 0 auto; /* Center the content */
-    background-color: #000000;
-    color: #ddd; /* Light text color */
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 .tabs {
     display: flex;
-    background-color: #010101;
-    /* padding: 10px; */
     padding: 10px 0 20px 0; 
 }
 
@@ -24,9 +25,7 @@ body {
     background: none;
     font-size: 16px;
     font-family: 'Menlo', monospace;
-    color: #ddd; /* Light text color for tabs */
-    /* text-decoration: none; Remove the default underline */
-    /* position: relative; */
+    color: #ddd;
 }
 
 .title-area-frontpage {
@@ -34,13 +33,12 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* 100% of the viewport height */
+    height: 100vh;
 }
 
 .title-area {
     text-align: center;
     padding: 0;
-    background-color: #020202;
 }
 
 .title {
@@ -52,41 +50,36 @@ body {
 }
 
 a {
-    color: #ddd; /* Light text color for links */
-    text-decoration: none; /* Remove the default underline */
+    color: #ddd;
+    text-decoration: none;
     position: relative;
 }
 
 a:hover {
-    text-decoration: underline; /* Underline on hover */
+    text-decoration: underline;
 }
 
-/* Style for the table */
 table {
     width: 100%;
     border-collapse: collapse;
-    margin-top: 20px; /* Adjust the margin as needed */
+    margin-top: 20px;
 }
 
-/* Style for table headers */
 th {
     background-color: #111;
     padding: 10px;
     text-align: left;
 }
 
-/* Style for alternating row colors */
 tr:nth-child(even) {
     background-color: #111;
 }
 
-/* Style for table cells */
 td {
     padding: 10px;
     text-align: left;
 }
 
-/* Hover effect on table rows */
 tr:hover {
     background-color: #222;
 }
