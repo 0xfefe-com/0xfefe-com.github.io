@@ -13,7 +13,12 @@ body {
 
 .tabs {
     display: flex;
-    padding: 10px 0 20px 0; 
+    padding: 10px 0 10px 0;
+    background-color: #000000;
+    /* padding: 15px; */
+    position: sticky;
+    top: 0;
+    z-index: 1000;
 }
 
 .tab-button {
@@ -43,6 +48,12 @@ body {
 
 .title {
     font-size: 36px;
+}
+
+.title-quote {
+    padding: 10px 0 0 0;
+    font-size: 18px;
+    font-style: italic;
 }
 
 .content-region {
