@@ -12,11 +12,17 @@ dates:
     notify: 2023-03-18
     schedule: 2023-03-25
 
+times:
+    walkin: 19:00
+    first: 19:20
+    last: 22:30
+
 contact:
     cfp: cfp@0xfefe.com
-    signup: join@0xfefe.com
     other: mail@0xfefe.com
+    signup: forms.gle/HtUZihQ2zAcxz27EA
 
+location: Wolbodo, Delft
 ---
 
 The 0rganization of the Federation of Entertainers and Funny Endeavors (0xfefe) is pleased to announce the inaugural edition of the independent fork of this internationally acclaimed and world-renowned event.
@@ -24,9 +30,12 @@ The 0rganization of the Federation of Entertainers and Funny Endeavors (0xfefe) 
 # tl;dr
 
 - Event date: {{ page.dates.event }}
+- Event location: {{ page.location }}
+- Walk-in time: {{ page.times.walkin }}
+- First presentation: {{ page.times.first }}
 - CFP deadline: {{ page.dates.cfp_deadline }}
 - CFP email: <a href="mailto:{{ page.contact.cfp }}">{{ page.contact.cfp }}</a>
-- Sign-up email: <a href="mailto:{{ page.contact.signup }}">{{ page.contact.signup }}</a>
+- Sign-up link: <a href="https://{{ page.contact.signup }}">{{ page.contact.signup }}</a>
 - Talks are ~15min, random topic
 
 # Mission
@@ -54,18 +63,25 @@ The 0rganization of the Federation of Entertainers and Funny Endeavors (0xfefe) 
 - Gastronomy and oenology
 - Modern lifestyle and security fitness
 
+# RSVP
+
+If you plan to attend the event, you are kindly requested to provide your information below.
+
+<div class="iframe-container" style="display: flex; align-items: center; justify-content: center;">
+    <iframe src="https://{{ page.contact.signup }}?embedded=true" width="640" height="580" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
+
 # CFP
 
-The 0rganization invites authors to submit manuscripts for consideration in this internationally acclaimed and world-renowned event. The following describes guidelines for submission to 0xfefe:
+The 0rganization invites all authors to submit manuscripts for consideration the event. The following describes guidelines for submission to 0xfefe:
 
+- **Submissions deadline is {{ page.dates.cfp_deadline }}**
+- Presenters will be notified on {{ page.dates.notify }}
+- Final schedule will be announced in this page on {{ page.dates.schedule }}
 - Content exposition should fit in a 15 minute time slot, including a possible round of questions
 - Expositions with assistance of slides are encouraged, but not mandatory
 - Informal tone for expositions is encouraged, but not mandatory
 - Submissions containing confidential information will be prosecuted according to your contract (see section "Breach of NDA")
-- Priority will be given to first time submitters
-- Submissions deadline is {{ page.dates.cfp_deadline }}
-- Presenters will be notified on {{ page.dates.accepted }}
-- Final schedule will be announced in this page on {{ page.dates.notify }}
 - In the absence of sufficient contributions, intermittent harassment, botheration and torment should be expected from the 0rganization.
 - Submissions and inquires regarding CFP should be addressed to <a href="mailto:{{ page.contact.cfp }}">{{ page.contact.cfp }}</a>
 
@@ -79,35 +95,27 @@ For this edition, we are graciously hosted by the wonderful people of Menschenve
 <a href="https://www.openstreetmap.org/?mlat=52.01483&amp;mlon=4.35740#map=19/52.01483/4.35740">their venue in Delft</a>.
 There are a couple of house rules to to abide by:
 
-- Rule 1
-- Rule 2
-- Rule 3
+- Beverages are available at cost price.
+- ...
+- You are welcome to hang around after the event, but please be mindful of the neighbours.
 
 # Schedule
 
 | Slot | Time slot | Speaker | Title |
 |-|-|-|-| 
-| | 15:45 | START | |
-| 01 | 16:00 | | |
-| 02 | 16:15 | | |
-| 03 | 16:30 | | |
-| | 16:45 | BREAK | |
-| 04 | 17:00 | | |
-| 05 | 17:15 | | |
-| 06 | 17:30 | | |
-| | 17:45 | PIZZA BREAK | |
-| 07 | 18:30 | | |
-| 08 | 18:45 | | |
-| 09 | 19:00 | | |
-| | 19:15 | BREAK | |
-| 10 | 19:30 | | |
-| 11 | 19:45 | | |
-| 12 | 20:00 | | |
-| | 20:15 | BREAK | |
-| 13 | 20:30 | | |
-| 14 | 20:45 | | |
-| 15 | 21:00 | | |
-| | 21:15 | FINISH | |
+|    | 19:20 | 0rganization | WELCOME |
+| 01 | 19:30 | | |
+| 02 | 19:45 | | |
+| 03 | 20:00 | | |
+|    | 20:15 | BREAK | |
+| 04 | 20:30 | | |
+| 05 | 20:45 | | |
+| 06 | 21:00 | | |
+|    | 21:15 | BREAK | |
+| 07 | 21:30 | | |
+| 08 | 21:45 | | |
+| 09 | 22:00 | | |
+|    | 21:15 | FINISH | |
 
 # Contact
 
