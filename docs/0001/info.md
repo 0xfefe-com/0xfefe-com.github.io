@@ -7,10 +7,10 @@ food: pizza
 permalink: /:path/
 
 dates: 
-    event: 2023-04-11
-    cfp_deadline: 2023-03-11
-    notify: 2023-03-18
-    schedule: 2023-03-25
+    event: 2024-04-11
+    cfp_deadline: 2024-03-11
+    notify: 2024-03-18
+    schedule: 2024-03-25
 
 times:
     walkin: "19:00"
