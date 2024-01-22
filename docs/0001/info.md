@@ -120,7 +120,7 @@ There are a couple of house rules to to abide by:
 | 07 | 21:30 | | |
 | 08 | 21:45 | | |
 | 09 | 22:00 | | |
-|    | 21:15 | FINISH | |
+|    | 22:15 | FINISH | |
 
 # Contact
 
