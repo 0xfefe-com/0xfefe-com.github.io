@@ -35,6 +35,7 @@ The 0rganization of the Federation of Entertainers and Funny Endeavors (0xfefe) 
 
 - Event date: {{ page.dates.event }}
 - Event location: {{ page.location }}
+- Cost of admission: gratis
 - Walk-in time: {{ page.times.walkin }}
 - First presentation: {{ page.times.first }}
 - CFP deadline: {{ page.dates.cfp_deadline }}
