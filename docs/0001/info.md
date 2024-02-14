@@ -125,5 +125,5 @@ There are a couple of house rules to to abide by:
 # Contact
 
 - CFP: <a href="mailto:{{ page.contact.cfp }}">{{ page.contact.cfp }}</a>
-- Sign-up: <a href="mailto:{{ page.contact.signup }}">{{ page.contact.signup }}</a>
+- Sign-up: <a href="https://{{ page.contact.signup }}">{{ page.contact.signup }}</a>
 - Other: <a href="mailto:{{ page.contact.other }}">{{ page.contact.other }}</a>
