@@ -43,6 +43,12 @@ The 0rganization of the Federation of Entertainers and Funny Endeavors (0xfefe) 
 - Talks are ~15min, random topic
 - **Sign-up link: <a href="https://{{ page.contact.signup }}">{{ page.contact.signup }}</a>**
 
+# Changelog
+
+- 2024-03-29: Add speaker schedule
+- 2024-01-22: Correct times and dates
+- 2023-12-09: Initial publication of website 
+
 # Mission
 
 0xfefe is a periodic event that exemplifies the usage of wit, satire, lampoon, pasquinade and other burlesque ways to transmit informative content in order to explore and resolve issues from various application domains within the social and/or physical sciences. 0xfefe is designed to provide attendees a moderate amount of beatitude and exhilaration, as well as to stimulate knowledge transfer, team building and personal improvement. 
@@ -90,7 +96,6 @@ The 0rganization invites all authors to submit manuscripts for consideration the
 
 <div class="iframe-container" style="display: flex; align-items: center; justify-content: center;">
     <iframe width="425" height="350" style="border: 1px solid white;" src="https://www.openstreetmap.org/export/embed.html?bbox=4.356398284435273%2C52.01443096562429%2C4.358401894569398%2C52.01522334277872&amp;layer=mapnik&amp;marker=52.01482715595567%2C4.357400089502335">
-    
     </iframe>
 </div>
 
@@ -107,21 +112,21 @@ There are a couple of house rules to to abide by:
 
 # Schedule
 
-| Slot | Time slot | Speaker | Title |
-|-|-|-|-| 
-|    | 19:20 | 0rganization | WELCOME |
-| 01 | 19:30 | | |
-| 02 | 19:45 | | |
-| 03 | 20:00 | | |
-|    | 20:15 | BREAK | |
-| 04 | 20:30 | | |
-| 05 | 20:45 | | |
-| 06 | 21:00 | | |
-|    | 21:15 | BREAK | |
-| 07 | 21:30 | | |
-| 08 | 21:45 | | |
-| 09 | 22:00 | | |
-|    | 22:15 | FINISH | |
+| Slot | Time slot | Speaker      | Title   |
+| ---- | --------- | ------------ | ------- |
+| 00   | 19:20     | 0rganization | WELCOME |
+| 01   | 19:30     | Dexter       | Wolbodo lights |
+| 02   | 19:45     | Benjamin     | Race conditions, transactions and free parking |
+| 03   | 20:00     | Carlo        | Finding bootloader backdoors in Chinese SOCs |
+| -    | 20:15     | BREAK        | -       |
+| 04   | 20:30     | Willem       | Mysterious Risc-V instructions in Google's Titan-M2 security chip |
+| 05   | 20:45     | Nils         | Sergei's sadistic ctf |
+| 06   | 21:00     | Arend        | Using GPUs for forecasting the Sunyaev-Zel’dovich signal on sub-mm astronomical spectrometers |
+| -    | 21:15     | BREAK        | -       |
+| 07   | 21:30     | Bogdan       | How to get a Dutch ham radio operator license when you don't speak (technical) Dutch |
+| 08   | 21:45     | Sergei       | Flipping Zero: Hacking Hackers' Multitool |
+| 09   | 22:00     | Bart         | Hacking a game controller for music |
+| -    | 22:15     | FINISH       | -       |
 
 # Contact
 
