@@ -49,6 +49,24 @@ The 0rganization of the Federation of Entertainers and Funny Endeavors (0xfefe) 
 - 2024-01-22: Correct times and dates
 - 2023-12-09: Initial publication of website 
 
+# Schedule
+
+| Slot | Time slot | Speaker      | Title   |
+| ---- | --------- | ------------ | ------- |
+| 00   | 19:20     | 0rganization | WELCOME |
+| 01   | 19:30     | Dexter       | Wolbodo lights |
+| 02   | 19:45     | Benjamin     | Race conditions, transactions and free parking |
+| 03   | 20:00     | Carlo        | Finding bootloader backdoors in Chinese SOCs |
+| -    | 20:15     | BREAK        | -       |
+| 04   | 20:30     | Willem       | Mysterious Risc-V instructions in Google's Titan-M2 security chip |
+| 05   | 20:45     | Nils         | Sergei's sadistic ctf |
+| 06   | 21:00     | Arend        | Using GPUs for forecasting the Sunyaev-Zel’dovich signal on sub-mm astronomical spectrometers |
+| -    | 21:15     | BREAK        | -       |
+| 07   | 21:30     | Bogdan       | How to get a Dutch ham radio operator license when you don't speak (technical) Dutch |
+| 08   | 21:45     | Sergei       | Flipping Zero: Hacking Hackers' Multitool |
+| 09   | 22:00     | Bart         | Hacking a game controller for music |
+| -    | 22:15     | FINISH       | -       |
+
 # Mission
 
 0xfefe is a periodic event that exemplifies the usage of wit, satire, lampoon, pasquinade and other burlesque ways to transmit informative content in order to explore and resolve issues from various application domains within the social and/or physical sciences. 0xfefe is designed to provide attendees a moderate amount of beatitude and exhilaration, as well as to stimulate knowledge transfer, team building and personal improvement. 
@@ -80,6 +98,8 @@ If you plan to attend the event, you are kindly requested to provide your inform
 
 # CFP
 
+**CFP is closed, final program has been determined!**
+
 The 0rganization invites all authors to submit manuscripts for consideration the event. The following describes guidelines for submission to 0xfefe:
 
 - **Submissions deadline is {{ page.dates.cfp_deadline }}**
@@ -108,25 +128,6 @@ There are a couple of house rules to to abide by:
 - The venue is not child and animal friendly
 - Photography and videography requires prior consent of all subjects
 - You are welcome and encouraged to hang around after the programmed portion of event until a time of your choosing, but please be mindful of the neighbours
-
-
-# Schedule
-
-| Slot | Time slot | Speaker      | Title   |
-| ---- | --------- | ------------ | ------- |
-| 00   | 19:20     | 0rganization | WELCOME |
-| 01   | 19:30     | Dexter       | Wolbodo lights |
-| 02   | 19:45     | Benjamin     | Race conditions, transactions and free parking |
-| 03   | 20:00     | Carlo        | Finding bootloader backdoors in Chinese SOCs |
-| -    | 20:15     | BREAK        | -       |
-| 04   | 20:30     | Willem       | Mysterious Risc-V instructions in Google's Titan-M2 security chip |
-| 05   | 20:45     | Nils         | Sergei's sadistic ctf |
-| 06   | 21:00     | Arend        | Using GPUs for forecasting the Sunyaev-Zel’dovich signal on sub-mm astronomical spectrometers |
-| -    | 21:15     | BREAK        | -       |
-| 07   | 21:30     | Bogdan       | How to get a Dutch ham radio operator license when you don't speak (technical) Dutch |
-| 08   | 21:45     | Sergei       | Flipping Zero: Hacking Hackers' Multitool |
-| 09   | 22:00     | Bart         | Hacking a game controller for music |
-| -    | 22:15     | FINISH       | -       |
 
 # Contact
 
