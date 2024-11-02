@@ -89,10 +89,6 @@ The 0rganization of the Federation of Entertainers and Funny Endeavors (0xfefe) 
 - Gastronomy and oenology
 - Modern lifestyle and security fitness
 
-# RSVP
-
-If you plan to attend the event, you are kindly requested to provide your information at <a href="https://{{ page.contact.signup }}">{{ page.contact.signup }}</a>.
-
 # CFP
 
 The 0rganization invites all authors to submit manuscripts for consideration the event. The following describes guidelines for submission to 0xfefe:
