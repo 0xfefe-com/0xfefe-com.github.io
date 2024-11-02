@@ -95,8 +95,6 @@ If you plan to attend the event, you are kindly requested to provide your inform
 
 # CFP
 
-**CFP is closed, final program has been determined!**
-
 The 0rganization invites all authors to submit manuscripts for consideration the event. The following describes guidelines for submission to 0xfefe:
 
 - **Submissions deadline is {{ page.dates.cfp_deadline }}**
