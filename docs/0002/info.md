@@ -25,7 +25,7 @@ location: Wolbodo, Delft
 ---
 
 
-The 0rganization of the Federation of Entertainers and Funny Endeavors (0xfefe) is pleased to announce the inaugural edition of the independent fork of this internationally acclaimed and world-renowned event.
+The 0rganization of the Federation of Entertainers and Funny Endeavors (0xfefe) is pleased to announce the second installment of this internationally acclaimed and world-renowned event.
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="/0002/gifgit.gif" alt="">
@@ -44,7 +44,7 @@ The 0rganization of the Federation of Entertainers and Funny Endeavors (0xfefe) 
 
 # Changelog
 
-- 2024-11-02: 0xfefe0002 announced 
+- 2024-11-02: 0xfefe_0002 announced 
 
 # Schedule
 
