@@ -8,11 +8,9 @@ title: 0xfefe
     {% if forloop.index != 1 %}
     <div style="opacity: 0.5;">
         {% endif %}
-        <huge>
-            <a href="{{page.url}}" class="title manipulatedTextDisplay">
-                {{page.title}}
-            </a>
-        </huge>
+        <a href="{{page.url}}" class="title manipulatedTextDisplay">
+            {{page.title}}
+        </a>
     {% if forloop.index != 1 %}
         </div>
     {% endif %}
