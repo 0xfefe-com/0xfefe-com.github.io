@@ -5,5 +5,15 @@ title: 0xfefe
 
 {% assign pages = site.pages | where_exp: 'page', 'page.tag == "fefe"' %}
 {% for page in pages %}
-    <a href="{{page.url}}" class="title"><span class="manipulatedTextDisplay">{{page.title}}</span></a>
+    {% if forloop.index != 1 %}
+    <div style="opacity: 0.5;">
+        {% endif %}
+        <huge>
+            <a href="{{page.url}}" class="title manipulatedTextDisplay">
+                {{page.title}}
+            </a>
+        </huge>
+    {% if forloop.index != 1 %}
+        </div>
+    {% endif %}
 {% endfor %}
