@@ -3,7 +3,7 @@ layout: front
 title: 0xfefe
 ---
 
-{% assign pages = site.pages | where_exp: 'page', 'page.tag == "fefe"' %}
+{% assign pages = site.pages | where_exp: 'page', 'page.tag == "fefe"' | reverse %}
 {% for page in pages %}
     {% if forloop.index != 1 %}
     <div style="opacity: 0.5;">
