@@ -48,21 +48,23 @@ The 0rganization of the Federation of Entertainers and Funny Endeavors (0xfefe) 
 
 # Schedule
 
-| Slot | Time slot | Speaker      | Title   |
-| ---- | --------- | ------------ | ------- |
-| 00   | 19:20     | 0rganization | WELCOME |
-| 01   | 19:30     |              | |
-| 02   | 19:45     |              | |
-| 03   | 20:00     |              | |
-| -    | 20:15     | BREAK        | - |
-| 04   | 20:30     |              | |
-| 05   | 20:45     |              | |
-| 06   | 21:00     |              | |
-| -    | 21:15     | BREAK        | - |
-| 07   | 21:30     |              | |
-| 08   | 21:45     |              | |
-| 09   | 22:00     |              | |
-| -    | 22:15     | FINISH       | - |
+| Slot | Time slot | Speaker      | Title                                                           |
+| ---- | --------- | ------------ | --------------------------------------------------------------- |
+| 00   | 19:20     | 0rganization | WELCOME                                                         |
+| 01   | 19:30     | Thomas       | JavaScript considered harmful (how prototypes break everything) |
+| 02   | 19:45     | Arend        | Some early results from the DESHIMA 2.0 commissioning campaign  |
+| 03   | 20:00     | Willem       | I want to analyze firmware                                      |
+| -    | 20:15     | BREAK        | -                                                               |
+| 04   | 20:30     | Dexter       | Handmaking cables                                               |
+| 05   | 20:45     | Sergei       | Exploitation Against the Clock: Xiaomi S3 Smartwatch            |
+| 06   | 21:00     | Niek         | Grading Sergei                                                  |
+| -    | 21:15     | BREAK        | -                                                               |
+| 07   | 21:30     | Jeffrey      | Your (function) signature here please                           |
+| 08   | 21:45     | Quentin      | Raspberry Pi's attempts at creating a secure microcontroller    |
+| 09   | 22:00     | Tim          | Industrial climbing                                             |
+| -    | 22:15     | FINISH       | -                                                               |
+
+
 
 # Mission
 
