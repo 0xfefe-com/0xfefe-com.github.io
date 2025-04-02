@@ -56,7 +56,7 @@ The 0rganization of the Federation of Entertainers and Funny Endeavors (0xfefe) 
 | 02   | 19:45     | Arend        | Some early results from the DESHIMA 2.0 commissioning campaign  |
 | 03   | 20:00     | Willem       | I want to analyze firmware                                      |
 | -    | 20:15     | BREAK        | -                                                               |
-| 04   | 20:30     | Dexter       | Handmaking cables                                               |
+| 04   | 20:30     | TBA          |                                                                 |
 | 05   | 20:45     | Sergei       | Exploitation Against the Clock: Xiaomi S3 Smartwatch            |
 | 06   | 21:00     | Niek         | Grading Sergei                                                  |
 | -    | 21:15     | BREAK        | -                                                               |
