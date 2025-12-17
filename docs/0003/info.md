@@ -28,7 +28,7 @@ location: Wolbodo, Delft
 The 0rganization of the Federation of Entertainers and Funny Endeavors (0xfefe) is pleased to announce the third installment of this internationally acclaimed and world-renowned event.
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="/0003/we-dont-need-roads.gif" alt="">
+    <img src="/0003/we-dont-need-roads.gif" alt="" style="width: 100%;">
 </div>
 
 # tl;dr
