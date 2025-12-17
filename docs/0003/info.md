@@ -10,7 +10,7 @@ dates:
     event: "2026-04-16"
     cfp_deadline: "2026-03-16"
     notify: "2026-04-02"
-    schedule: "2026-03-09"
+    schedule: "2026-04-09"
 
 times:
     walkin: "19:00"
