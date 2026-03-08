@@ -51,17 +51,17 @@ The 0rganization of the Federation of Entertainers and Funny Endeavors (0xfefe) 
 | Slot | Time slot | Speaker      | Title                                                           |
 | ---- | --------- | ------------ | --------------------------------------------------------------- |
 | 00   | 19:20     | 0rganization | WELCOME                                                         |
-| 01   | 19:30     | TBD          |                                                                 |
-| 02   | 19:45     | TBD          |                                                                 |
-| 03   | 20:00     | TBD          |                                                                 |
+| 01   | 19:30     | Willem       | Investigating a sumup payment terminal                          |
+| 02   | 19:45     | Pascal?      | ?                                                               |
+| 03   | 20:00     | Axel         | Brushing teeth or playing DOOM? Why not both?                   |
 | -    | 20:15     | BREAK        | -                                                               |
-| 04   | 20:30     | TBD          |                                                                 |                                                            |
-| 05   | 20:45     | TBD          |                                                                 |
-| 06   | 21:00     | TBD          |                                                                 |
+| 04   | 20:30     | Jasiek1      | Debugging Healthcare: How I Took Over My Own Glioblastoma Treatment |
+| 05   | 20:45     | Jasiek2      |                                                                 |
+| 06   | 21:00     | Leslie       | Keeping it local                                                |
 | -    | 21:15     | BREAK        | -                                                               |
-| 07   | 21:30     | TBD          |                                                                 |
-| 08   | 21:45     | TBD          |                                                                 |
-| 09   | 22:00     | TBD          |                                                                 |
+| 07   | 21:30     | Dexter       | Distrans: Building a Eurorack module with an AI co-pilot        |
+| 08   | 21:45     | Daniel       | Robot Arm Etudes                                                |
+| 09   | 22:00     | Tim          | Basic house electrics and the measurements of NEN 1010 en de NEN 3140 |
 | -    | 22:15     | FINISH       | -                                                               |
 
 
