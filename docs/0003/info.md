@@ -52,7 +52,7 @@ The 0rganization of the Federation of Entertainers and Funny Endeavors (0xfefe) 
 | ---- | --------- | ------------ | --------------------------------------------------------------- |
 | 00   | 19:20     | 0rganization | WELCOME                                                         |
 | 01   | 19:30     | Willem       | Investigating a sumup payment terminal                          |
-| 02   | 19:45     | Pascal?      | ?                                                               |
+| 02   | 19:45     | Pascal?      | Unlock your potential by unblocking your constraints            |
 | 03   | 20:00     | Axel         | Brushing teeth or playing DOOM? Why not both?                   |
 | -    | 20:15     | BREAK        | -                                                               |
 | 04   | 20:30     | Jasiek1      | Debugging Healthcare: How I Took Over My Own Glioblastoma Treatment |
