@@ -51,17 +51,16 @@ The 0rganization of the Federation of Entertainers and Funny Endeavors (0xfefe) 
 | Slot | Time slot | Speaker      | Title                                                           |
 | ---- | --------- | ------------ | --------------------------------------------------------------- |
 | 00   | 19:20     | 0rganization | WELCOME                                                         |
-| 01   | 19:30     | Willem       | Investigating a sumup payment terminal                          |
-| 02   | 19:45     | Pascal?      | Unlock your potential by unblocking your constraints            |
+| 01   | 19:30     | Leslie       | 3D wholegarment knitting                                        |
+| 02   | 19:45     | Niek         | Demo the 💪 of a ROM 🪳 in a Modern Android ☎️                   |
 | 03   | 20:00     | Axel         | Brushing teeth or playing DOOM? Why not both?                   |
 | -    | 20:15     | BREAK        | -                                                               |
-| 04   | 20:30     | Jasiek1      | Debugging Healthcare: How I Took Over My Own Glioblastoma Treatment |
-| 05   | 20:45     | Jasiek2      |                                                                 |
-| 06   | 21:00     | Leslie       | Keeping it local                                                |
+| 04   | 20:30     | Praveen      | Skipping the Math: Bypassing Post-Quantum Cryptography with a 2-Byte Glitch |
+| 05   | 20:45     | Jasiek       | Debugging Healthcare: How I Took Over My Own Glioblastoma Treatment |
 | -    | 21:15     | BREAK        | -                                                               |
-| 07   | 21:30     | Dexter       | Distrans: Building a Eurorack module with an AI co-pilot        |
-| 08   | 21:45     | Daniel       | Robot Arm Etudes                                                |
-| 09   | 22:00     | Tim          | Basic house electrics and the measurements of NEN 1010 en de NEN 3140 |
+| 06   | 21:30     | Dexter       | Distrans: Building a Eurorack module with an AI co-pilot        |
+| 07   | 21:45     | Daniel       | Robot Arm Etudes                                                |
+| 08   | 22:00     | Rene         | Radio-frequency hacking of a Garage Door                        |
 | -    | 22:15     | FINISH       | -                                                               |
 
 
