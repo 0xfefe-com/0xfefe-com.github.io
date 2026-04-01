@@ -45,6 +45,7 @@ The 0rganization of the Federation of Entertainers and Funny Endeavors (0xfefe) 
 # Changelog
 
 - 2025-12-16: 0xfefe_0003 announced 
+- 2026-04-01: 0xfefe_0003 schedule added
 
 # Schedule
 
