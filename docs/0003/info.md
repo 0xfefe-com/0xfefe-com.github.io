@@ -58,8 +58,8 @@ The 0rganization of the Federation of Entertainers and Funny Endeavors (0xfefe) 
 | 04   | 20:30     | Praveen      | Skipping the Math: Bypassing Post-Quantum Cryptography with a 2-Byte Glitch |
 | 05   | 20:45     | Jasiek       | Debugging Healthcare: How I Took Over My Own Glioblastoma Treatment |
 | -    | 21:15     | BREAK        | -                                                               |
-| 06   | 21:30     | Dexter       | Distrans: Building a Eurorack module with an AI co-pilot        |
-| 07   | 21:45     | Daniel       | Robot Arm Etudes                                                |
+| 06   | 21:30     | Daniel       | Robot Arm Etudes                                                |
+| 07   | 21:45     | Dexter       | Distrans: Building a Eurorack module with an AI co-pilot        |
 | 08   | 22:00     | Rene         | Radio-frequency hacking of a Garage Door                        |
 | -    | 22:15     | FINISH       | -                                                               |
 
