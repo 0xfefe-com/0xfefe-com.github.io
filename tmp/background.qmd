@@ -1,0 +1,53 @@
+---
+title: "0xfefe_0002"
+title-slide-attributes:
+    data-background-image: ./gifgit.gif
+format:
+  revealjs: 
+    embed-resources: true
+    slide-number: false
+    theme: [dark, custom.scss]
+    menu: false
+    auto-slide: 2000
+    loop: true
+    center: true
+output-dir: out
+---
+
+#
+
+::: {.r-fit-text}
+
+| Slot |           | Speaker      | Title                                                           |
+| ---- | --------- | ------------ | --------------------------------------------------------------- |
+| 00   | 19:20     | 0rganization | WELCOME                                                         |
+| 01   | 19:30     | Thomas       | JavaScript considered harmful  |
+| 02   | 19:45     | Arend        | Some early results from DESHIMA 2.0  |
+| 03   | 20:00     | Willem       | I want to analyze firmware                                      |
+| -    | 20:15     | BREAK        | -                                                               |
+| 04   | 20:30     | TBA          | Attacking a Kyber Implementation with CPA | 
+| 05   | 20:45     | Sergei       | Exploitation Against the Clock: Xiaomi S3 Smartwatch            |
+| 06   | 21:00     | Niek         | Grading Sergei                                                  |
+| -    | 21:15     | BREAK        | -                                                               |
+| 07   | 21:30     | Jeffrey      | Your (function) signature here please                           |
+| 08   | 21:45     | Quentin      | Raspberry Pi's attempts at creating a secure microcontroller    |
+| 09   | 22:00     | Tim          | Industrial climbing                                             |
+| -    | 22:15     | FINISH       | -                                                               |
+
+:::
+
+## 
+
+![](./ctf-qr-2.svg)
+
+:::{.r-stack}
+[0xfefe.com/0002/ctf](https://0xfefe.com/0002/ctf)
+:::
+
+## 
+
+![](./donate-qr.svg)
+
+:::{.r-stack}
+[0xfefe.com/donate](https://0xfefe.com/0002/donate)
+:::

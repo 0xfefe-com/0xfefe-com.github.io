@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30.90881"
+   height="48.029819"
+   viewBox="0 0 8.1779558 12.707889"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="fefe.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="7.0423936"
+     inkscape:cx="20.163599"
+     inkscape:cy="54.31392"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="259.83286"
+       y="428.83932"
+       width="381.37885"
+       height="266.23721"
+       id="rect1159" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-78.452496,-62.112035)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;font-family:'MesloLGLDZ Nerd Font Mono';-inkscape-font-specification:'MesloLGLDZ Nerd Font Mono';fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.99999"
+       x="77.713524"
+       y="68.008652"
+       id="text4081"><tspan
+         sodipodi:role="line"
+         id="tspan4079"
+         style="stroke-width:5"
+         x="77.713524"
+         y="68.008652"
+         dy="0 0">fe</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:5"
+         x="77.713524"
+         y="77.71003"
+         id="tspan5535"
+         dy="-3">fe</tspan></text>
+  </g>
+</svg>
