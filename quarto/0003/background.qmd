@@ -34,3 +34,20 @@ output-dir: out
 | -    | 22:15     | FINISH       | -                                                               |
 
 :::
+
+## 
+
+![](./ctf-qr-2.svg)
+
+:::{.r-stack}
+[0xfefe.com/ctf](https://0xfefe.com/ctf)
+:::
+
+## 
+
+![](./signal-qr.svg)
+
+:::{.r-stack}
+[0xfefe.com/signal](https://0xfefe.com/signal)
+:::
+
