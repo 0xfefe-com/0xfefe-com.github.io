@@ -37,7 +37,7 @@ output-dir: out
 
 ## 
 
-![](./ctf-qr-2.svg)
+![](./ctf-qr-2.svg){fig-align="center"}
 
 :::{.r-stack}
 [0xfefe.com/ctf](https://0xfefe.com/ctf)
@@ -45,9 +45,8 @@ output-dir: out
 
 ## 
 
-![](./signal-qr.svg)
+![](./signal-qr.svg){fig-align="center"}
 
 :::{.r-stack}
-[0xfefe.com/signal](https://0xfefe.com/signal)
+Signal announcements
 :::
-
